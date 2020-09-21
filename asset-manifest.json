@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/johanedenfjord.github.io/flicker-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/johanedenfjord.github.io/flicker-app/static/js/main.3116f8a7.chunk.js",
+    "main.js.map": "/johanedenfjord.github.io/flicker-app/static/js/main.3116f8a7.chunk.js.map",
+    "runtime-main.js": "/johanedenfjord.github.io/flicker-app/static/js/runtime-main.5bd4d108.js",
+    "runtime-main.js.map": "/johanedenfjord.github.io/flicker-app/static/js/runtime-main.5bd4d108.js.map",
+    "static/js/2.76643de0.chunk.js": "/johanedenfjord.github.io/flicker-app/static/js/2.76643de0.chunk.js",
+    "static/js/2.76643de0.chunk.js.map": "/johanedenfjord.github.io/flicker-app/static/js/2.76643de0.chunk.js.map",
+    "index.html": "/johanedenfjord.github.io/flicker-app/index.html",
+    "precache-manifest.811e6e8af33ef67744e26f369c58354d.js": "/johanedenfjord.github.io/flicker-app/precache-manifest.811e6e8af33ef67744e26f369c58354d.js",
+    "service-worker.js": "/johanedenfjord.github.io/flicker-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/johanedenfjord.github.io/flicker-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.76643de0.chunk.js.LICENSE.txt": "/johanedenfjord.github.io/flicker-app/static/js/2.76643de0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/johanedenfjord.github.io/flicker-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bd4d108.js",
+    "static/js/2.76643de0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3116f8a7.chunk.js"
+  ]
+}
